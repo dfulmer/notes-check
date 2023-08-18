@@ -136,4 +136,14 @@ Change the line "var apikey = ‘your_api_key’;" to add your api key. The key 
 
 Click the Save Project disk icon at the top.
 
+To begin using the Sheet, you must grant permissions.
+
+Click Run at the top of the screen.
+
+Click Review permissions.
+
+Choose an account.
+
+Click Allow.
+
 Go back to the Sheet and type something into B1 and hit Enter. The report will populate with the invoice information.
