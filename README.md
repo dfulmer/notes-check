@@ -132,7 +132,7 @@ Give your project a name and click Rename.
 
 Replace any code in the text editor with the contents of Note Check.gs.
 
-Change the line "var apikey = ‘your_api_key’;" to add your api key.
+Change the line "var apikey = ‘your_api_key’;" to add your api key. The key will need these Permissions: Area: Acquisition, Env: Production or Sandbox, Permissions: Read-only.
 
 Click the Save Project disk icon at the top.
 
