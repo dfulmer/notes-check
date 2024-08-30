@@ -1,5 +1,7 @@
 # notes-check
-Notes Check Google Sheets app.
+Notes Check Google Sheets app.  
+
+Context, background, and a detailed explanation of this script is in the article "Real-Time Reporting Using the Alma API and Google Apps Script" published in Issue 58, 2023-12-04, of The Code4Lib Journal. The article is available here: [https://journal.code4lib.org/articles/17695](https://journal.code4lib.org/articles/17695).
 
 ## How to Create the Notes Check App
 
